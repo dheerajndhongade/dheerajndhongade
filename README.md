@@ -28,10 +28,10 @@ A comprehensive ecommerce platform for managing products, cart functionality, an
 
 ## 🛠️ Technologies
 
-- **Frontend**: React.js
 - **Backend**: Node.js, Express.js
+- **Frontend**: React.js,HTML,CSS
 - **Database**: MongoDB, MySQL
-- **Tools**: AWS, S3, Mongoose, Razorpay
+- **Tools**: AWS, S3, Mongoose, Razorpay,Sequelize
 
 ## 📫 Connect with Me
 
